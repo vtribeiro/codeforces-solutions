@@ -10,8 +10,8 @@
     Then I check digits from 0 to 9 in ascending order and output the first digit found.
     Since y must be a single digit, this approach guarantees the smallest valid y.
 
-    Author: Victor Ribeiro
-    GitHub: github.com/vtribeiro
+        Author: Victor Ribeiro
+        GitHub: github.com/vtribeiro
 */
 #include <bits/stdc++.h>
 #define ll long long
